@@ -1,7 +1,7 @@
 # debugNNwithWandB
 Contain notebooks to showcase various aspects mentioned.
 
-|Notebook Name|W&B Run Page|
+|Notebook Name|W&B Run/Project Page|
 |---|---|
 |[MNIST_pytorch_wandb_Overfit_Small.ipynb](https://github.com/ayulockin/debugNNwithWandB/blob/master/MNIST_pytorch_wandb_Overfit_Small.ipynb)|https://app.wandb.ai/ayush-thakur/overfitsmall|
 |[MNIST_pytorch_wandb_LRFinder.ipynb](https://github.com/ayulockin/debugNNwithWandB/blob/master/MNIST_pytorch_wandb_LRFinder.ipynb)|https://app.wandb.ai/ayush-thakur/lrfinder|
